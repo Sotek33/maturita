@@ -1,0 +1,427 @@
+2021.04.30 09:44:14.611  SYSTEM: Start App
+2021.04.30 09:44:14.611  SYSTEM: Windows:  unknown Windows version Service Pack 1
+2021.04.30 09:44:14.611  SYSTEM: Promotic: Promotic7.3.11
+2021.04.30 09:44:14.672  SYSTEM: New directory: C:\VAS\4.C\Barak\Zasobnik\Resource
+2021.04.30 09:44:14.672  SYSTEM: New directory: C:\VAS\4.C\Barak\Zasobnik\Data
+2021.04.30 09:44:14.673  SYSTEM: New directory: C:\VAS\4.C\Barak\Zasobnik\Cfg
+2021.04.30 09:44:14.678  SYSTEM: SaveAll App
+2021.04.30 09:44:14.919  SYSTEM: Start App Done
+2021.04.30 10:00:13.288  SYSTEM: SaveAll App, backup created
+2021.04.30 10:53:31.309  SYSTEM: SaveAll App, backup created
+2021.04.30 10:54:45.532  SYSTEM: Start Rt
+2021.04.30 10:54:46.646  ERROR Count:1 Ident:PmTimer: /casovac, Event: TimerTick, [13,1] Note:Byl oèekáván pøíkaz.
+2021.04.30 10:54:46.653  SYSTEM: Start Rt-0
+2021.04.30 10:54:46.676  SYSTEM: Start Rt-1
+2021.04.30 10:54:46.678  SYSTEM: Start Rt-2
+2021.04.30 10:54:49.274  SYSTEM: Calling Pm.AppStop
+2021.04.30 10:54:49.292  SYSTEM: Stop Rt
+2021.04.30 10:54:49.428  SYSTEM: Stop Rt Done
+2021.04.30 10:55:00.432  SYSTEM: Start Rt
+2021.04.30 10:55:00.527  ERROR Count:1 Ident:PmTimer: /casovac, Event: TimerTick, [13,1] Note:Byl oèekáván pøíkaz.
+2021.04.30 10:55:00.531  SYSTEM: Start Rt-0
+2021.04.30 10:55:00.552  SYSTEM: Start Rt-1
+2021.04.30 10:55:00.555  SYSTEM: Start Rt-2
+2021.04.30 10:55:05.818  SYSTEM: Calling Pm.AppStop
+2021.04.30 10:55:05.836  SYSTEM: Stop Rt
+2021.04.30 10:55:05.954  SYSTEM: Stop Rt Done
+2021.04.30 11:18:41.363  SYSTEM: SaveAll App, backup created
+2021.04.30 11:18:45.142  SYSTEM: Stop App
+2021.04.30 11:18:45.144  SYSTEM: Stop App Done
+2021.05.06 10:38:33.581  SYSTEM: Start App
+2021.05.06 10:38:33.581  SYSTEM: Windows:  unknown Windows version Service Pack 1
+2021.05.06 10:38:33.581  SYSTEM: Promotic: Promotic7.3.11
+2021.05.06 10:38:33.617  SYSTEM: Application: Promotic7.3.11
+2021.05.06 10:38:33.644  SYSTEM: Start App Done
+2021.05.06 10:38:47.013  SYSTEM: Start Rt
+2021.05.06 10:38:47.082  ERROR Count:1 Ident:PmTimer: /casovac, Event: TimerTick, [13,1] Note:Byl oèekáván pøíkaz.
+2021.05.06 10:38:47.082  SYSTEM: Start Rt-0
+2021.05.06 10:38:47.108  SYSTEM: Start Rt-1
+2021.05.06 10:38:47.110  SYSTEM: Start Rt-2
+2021.05.06 10:38:52.370  SYSTEM: Calling Pm.AppStop
+2021.05.06 10:38:52.388  SYSTEM: Stop Rt
+2021.05.06 10:38:52.488  SYSTEM: Stop Rt Done
+2021.05.06 10:51:25.571  SYSTEM: Start Rt
+2021.05.06 10:51:25.625  ERROR Count:1 Ident:PmTimer: /casovac, Event: TimerTick, [13,1] Note:Byl oèekáván pøíkaz.
+2021.05.06 10:51:25.626  SYSTEM: Start Rt-0
+2021.05.06 10:51:25.645  SYSTEM: Start Rt-1
+2021.05.06 10:51:25.650  SYSTEM: Start Rt-2
+2021.05.06 10:51:54.644  SYSTEM: Calling Pm.AppStop
+2021.05.06 10:51:54.662  SYSTEM: Stop Rt
+2021.05.06 10:51:54.738  SYSTEM: Stop Rt Done
+2021.05.06 10:56:22.105  SYSTEM: SaveAll App, backup created
+2021.05.06 10:57:08.545  SYSTEM: Start Rt
+2021.05.06 10:57:08.605  ERROR Count:1 Ident:PmTimer: /casovac, Event: TimerTick, [13,1] Note:Byl oèekáván pøíkaz.
+2021.05.06 10:57:08.605  SYSTEM: Start Rt-0
+2021.05.06 10:57:08.625  SYSTEM: Start Rt-1
+2021.05.06 10:57:08.628  SYSTEM: Start Rt-2
+2021.05.06 10:57:41.202  SYSTEM: Calling Pm.AppStop
+2021.05.06 10:57:41.220  SYSTEM: Stop Rt
+2021.05.06 10:57:41.291  SYSTEM: Stop Rt Done
+2021.05.06 10:59:55.022  SYSTEM: Start Rt
+2021.05.06 10:59:55.063  ERROR Count:1 Ident:PmTimer: /casovac, Event: TimerTick, [13,1] Note:Byl oèekáván pøíkaz.
+2021.05.06 10:59:55.063  SYSTEM: Start Rt-0
+2021.05.06 10:59:55.085  SYSTEM: Start Rt-1
+2021.05.06 10:59:55.088  SYSTEM: Start Rt-2
+2021.05.06 11:00:03.561  SYSTEM: Calling Pm.AppStop
+2021.05.06 11:00:03.579  SYSTEM: Stop Rt
+2021.05.06 11:00:03.657  SYSTEM: Stop Rt Done
+2021.05.06 11:02:53.278  SYSTEM: Start Rt
+2021.05.06 11:02:53.339  ERROR Count:1 Ident:PmTimer: /casovac, Event: TimerTick, [13,1] Note:Byl oèekáván pøíkaz.
+2021.05.06 11:02:53.340  SYSTEM: Start Rt-0
+2021.05.06 11:02:53.359  SYSTEM: Start Rt-1
+2021.05.06 11:02:53.364  SYSTEM: Start Rt-2
+2021.05.06 11:03:00.576  SYSTEM: Calling Pm.AppStop
+2021.05.06 11:03:00.594  SYSTEM: Stop Rt
+2021.05.06 11:03:00.664  SYSTEM: Stop Rt Done
+2021.05.06 11:03:03.181  SYSTEM: Start Rt
+2021.05.06 11:03:03.229  ERROR Count:1 Ident:PmTimer: /casovac, Event: TimerTick, [13,1] Note:Byl oèekáván pøíkaz.
+2021.05.06 11:03:03.230  SYSTEM: Start Rt-0
+2021.05.06 11:03:03.249  SYSTEM: Start Rt-1
+2021.05.06 11:03:03.253  SYSTEM: Start Rt-2
+2021.05.06 11:03:14.720  SYSTEM: Calling Pm.AppStop
+2021.05.06 11:03:14.738  SYSTEM: Stop Rt
+2021.05.06 11:03:14.821  SYSTEM: Stop Rt Done
+2021.05.06 11:03:53.268  SYSTEM: Start Rt
+2021.05.06 11:03:53.321  SYSTEM: Start Rt-0
+2021.05.06 11:03:53.340  SYSTEM: Start Rt-1
+2021.05.06 11:03:53.345  SYSTEM: Start Rt-2
+2021.05.06 11:03:54.353  ERROR Count:1 Ident:PmTimer: /casovac, Event: TimerTick, [30,3] Note:Pøeteèení
+2021.05.06 11:04:04.303  SYSTEM: Calling Pm.AppStop
+2021.05.06 11:04:04.321  SYSTEM: Stop Rt
+2021.05.06 11:04:04.404  SYSTEM: Stop Rt Done
+2021.05.06 11:12:37.655  SYSTEM: Start Rt
+2021.05.06 11:12:37.699  SYSTEM: Start Rt-0
+2021.05.06 11:12:37.718  SYSTEM: Start Rt-1
+2021.05.06 11:12:37.720  SYSTEM: Start Rt-2
+2021.05.06 11:12:38.731  ERROR Count:1 Ident:PmTimer: /casovac, Event: TimerTick, [30,3] Note:Pøeteèení
+2021.05.06 11:13:27.810  SYSTEM: Calling Pm.AppStop
+2021.05.06 11:13:27.829  SYSTEM: Stop Rt
+2021.05.06 11:13:27.902  SYSTEM: Stop Rt Done
+2021.05.06 11:15:48.231  SYSTEM: Start Rt
+2021.05.06 11:15:48.282  SYSTEM: Start Rt-0
+2021.05.06 11:15:48.308  SYSTEM: Start Rt-1
+2021.05.06 11:15:48.312  SYSTEM: Start Rt-2
+2021.05.06 11:15:49.318  ERROR Count:1 Ident:PmTimer: /casovac, Event: TimerTick, [30,3] Note:Pøeteèení
+2021.05.06 11:15:55.969  SYSTEM: Calling Pm.AppStop
+2021.05.06 11:15:55.987  SYSTEM: Stop Rt
+2021.05.06 11:15:56.081  SYSTEM: Stop Rt Done
+2021.05.06 11:49:49.989  SYSTEM: Start Rt
+2021.05.06 11:49:50.050  SYSTEM: Start Rt-0
+2021.05.06 11:49:50.070  SYSTEM: Start Rt-1
+2021.05.06 11:49:50.074  SYSTEM: Start Rt-2
+2021.05.06 11:49:51.077  ERROR Count:1 Ident:PmTimer: /casovac, Event: TimerTick, [30,3] Note:Pøeteèení
+2021.05.06 11:50:36.506  SYSTEM: Calling Pm.AppStop
+2021.05.06 11:50:36.524  SYSTEM: Stop Rt
+2021.05.06 11:50:36.610  SYSTEM: Stop Rt Done
+2021.05.06 11:55:39.997  SYSTEM: Start Rt
+2021.05.06 11:55:40.044  SYSTEM: Start Rt-0
+2021.05.06 11:55:40.063  SYSTEM: Start Rt-1
+2021.05.06 11:55:40.067  SYSTEM: Start Rt-2
+2021.05.06 11:55:41.062  ERROR Count:1 Ident:PmTimer: /casovac, Event: TimerTick, [30,3] Note:Pøeteèení
+2021.05.06 11:56:28.815  SYSTEM: Calling Pm.AppStop
+2021.05.06 11:56:28.833  SYSTEM: Stop Rt
+2021.05.06 11:56:28.920  SYSTEM: Stop Rt Done
+2021.05.06 11:59:10.840  SYSTEM: Start Rt
+2021.05.06 11:59:10.898  SYSTEM: Start Rt-0
+2021.05.06 11:59:10.916  SYSTEM: Start Rt-1
+2021.05.06 11:59:10.918  SYSTEM: Start Rt-2
+2021.05.06 11:59:11.930  ERROR Count:1 Ident:PmTimer: /casovac, Event: TimerTick, [30,3] Note:Pøeteèení
+2021.05.06 11:59:39.042  SYSTEM: Calling Pm.AppStop
+2021.05.06 11:59:39.060  SYSTEM: Stop Rt
+2021.05.06 11:59:39.129  SYSTEM: Stop Rt Done
+2021.05.06 12:00:23.412  SYSTEM: Start Rt
+2021.05.06 12:00:23.470  SYSTEM: Start Rt-0
+2021.05.06 12:00:23.491  SYSTEM: Start Rt-1
+2021.05.06 12:00:23.496  SYSTEM: Start Rt-2
+2021.05.06 12:00:24.500  ERROR Count:1 Ident:PmTimer: /casovac, Event: TimerTick, [30,3] Note:Pøeteèení
+2021.05.06 12:01:02.382  SYSTEM: Calling Pm.AppStop
+2021.05.06 12:01:02.400  SYSTEM: Stop Rt
+2021.05.06 12:01:02.477  SYSTEM: Stop Rt Done
+2021.05.06 12:05:01.274  SYSTEM: Start Rt
+2021.05.06 12:05:01.327  SYSTEM: Start Rt-0
+2021.05.06 12:05:01.346  SYSTEM: Start Rt-1
+2021.05.06 12:05:01.349  SYSTEM: Start Rt-2
+2021.05.06 12:05:02.359  ERROR Count:1 Ident:PmTimer: /casovac, Event: TimerTick, [30,3] Note:Pøeteèení
+2021.05.06 12:05:11.037  SYSTEM: Calling Pm.AppStop
+2021.05.06 12:05:11.055  SYSTEM: Stop Rt
+2021.05.06 12:05:11.133  SYSTEM: Stop Rt Done
+2021.05.06 12:08:16.932  SYSTEM: Start Rt
+2021.05.06 12:08:16.986  SYSTEM: Start Rt-0
+2021.05.06 12:08:17.008  SYSTEM: Start Rt-1
+2021.05.06 12:08:17.015  SYSTEM: Start Rt-2
+2021.05.06 12:08:18.011  ERROR Count:1 Ident:PmTimer: /casovac, Event: TimerTick, [30,3] Note:Pøeteèení
+2021.05.06 12:08:27.086  SYSTEM: Calling Pm.AppStop
+2021.05.06 12:08:27.104  SYSTEM: Stop Rt
+2021.05.06 12:08:27.180  SYSTEM: Stop Rt Done
+2021.05.06 12:13:08.129  SYSTEM: Start Rt
+2021.05.06 12:13:08.180  SYSTEM: Start Rt-0
+2021.05.06 12:13:08.197  SYSTEM: Start Rt-1
+2021.05.06 12:13:08.205  SYSTEM: Start Rt-2
+2021.05.06 12:13:09.203  ERROR Count:1 Ident:PmTimer: /casovac, Event: TimerTick, [30,3] Note:Pøeteèení
+2021.05.06 12:13:28.666  SYSTEM: Calling Pm.AppStop
+2021.05.06 12:13:28.684  SYSTEM: Stop Rt
+2021.05.06 12:13:28.771  SYSTEM: Stop Rt Done
+2021.05.06 12:15:11.887  SYSTEM: Start Rt
+2021.05.06 12:15:11.936  SYSTEM: Start Rt-0
+2021.05.06 12:15:11.954  SYSTEM: Start Rt-1
+2021.05.06 12:15:11.957  SYSTEM: Start Rt-2
+2021.05.06 12:15:12.960  ERROR Count:1 Ident:PmTimer: /casovac, Event: TimerTick, [30,3] Note:Pøeteèení
+2021.05.06 12:15:17.432  SYSTEM: Calling Pm.AppStop
+2021.05.06 12:15:17.450  SYSTEM: Stop Rt
+2021.05.06 12:15:17.519  SYSTEM: Stop Rt Done
+2021.05.06 12:16:47.340  SYSTEM: Start Rt
+2021.05.06 12:16:47.389  SYSTEM: Start Rt-0
+2021.05.06 12:16:47.413  SYSTEM: Start Rt-1
+2021.05.06 12:16:47.416  SYSTEM: Start Rt-2
+2021.05.06 12:16:48.415  ERROR Count:1 Ident:PmTimer: /casovac, Event: TimerTick, [30,3] Note:Pøeteèení
+2021.05.06 12:17:26.383  SYSTEM: Calling Pm.AppStop
+2021.05.06 12:17:26.401  SYSTEM: Stop Rt
+2021.05.06 12:17:26.480  SYSTEM: Stop Rt Done
+2021.05.06 12:17:27.926  SYSTEM: SaveAll App, backup created
+2021.05.06 12:17:51.873  SYSTEM: Stop App
+2021.05.06 12:17:51.875  SYSTEM: Stop App Done
+2021.05.09 13:31:23.589  SYSTEM: Start App licence=0
+2021.05.09 13:31:23.609  SYSTEM: Windows:  unknown Windows version
+2021.05.09 13:31:23.620  SYSTEM: Promotic: Promotic7.5.7
+2021.05.09 13:31:23.633  SYSTEM: Application: Promotic7.3.11
+2021.05.09 13:31:28.045  SYSTEM: Convert request, accepted:YES
+2021.05.09 13:31:28.097  SYSTEM: Start App Done
+2021.05.09 13:31:28.708  SYSTEM: SaveAll App, backup created
+2021.05.09 13:32:02.475  SYSTEM: Start Rt
+2021.05.09 13:32:03.795  SYSTEM: Start Rt-0
+2021.05.09 13:32:03.815  SYSTEM: Start Rt-1
+2021.05.09 13:32:04.054  SYSTEM: Start Rt-2
+2021.05.09 13:32:04.885  ERROR Count:1 Ident:PmTimer: /casovac, Event: onTick, [30,3] Note:Pøeteèení
+2021.05.09 13:32:55.029  SYSTEM: Calling Pm.AppStop
+2021.05.09 13:32:55.070  SYSTEM: Stop Rt
+2021.05.09 13:33:12.592  SYSTEM: Stop Rt Done
+2021.05.09 13:33:32.177  SYSTEM: Start Rt
+2021.05.09 13:33:33.488  SYSTEM: Start Rt-0
+2021.05.09 13:33:33.513  SYSTEM: Start Rt-1
+2021.05.09 13:33:33.581  SYSTEM: Start Rt-2
+2021.05.09 13:33:34.508  ERROR Count:1 Ident:PmTimer: /casovac, Event: onTick, [30,3] Note:Pøeteèení
+2021.05.09 13:33:35.543  SYSTEM: Stop Rt
+2021.05.09 13:34:08.117  SYSTEM: Stop Rt Done
+2021.05.09 13:34:08.338  SYSTEM: Stop App
+2021.05.09 13:34:08.364  SYSTEM: Stop App Done
+2021.05.09 17:38:15.268  SYSTEM: Start App licence=0
+2021.05.09 17:38:15.269  SYSTEM: Windows:  unknown Windows version
+2021.05.09 17:38:15.270  SYSTEM: Promotic: Promotic7.5.7
+2021.05.09 17:38:15.343  SYSTEM: Application: Promotic7.5.7
+2021.05.09 17:38:15.387  SYSTEM: Start App Done
+2021.05.09 17:38:23.116  SYSTEM: Start Rt
+2021.05.09 17:38:24.944  SYSTEM: New directory: D:\Škola\Maturita\Otázky a úlohy\2.Vizualizace, zásobník teplé vody (Promotic)\Resource
+2021.05.09 17:38:24.946  SYSTEM: New directory: D:\Škola\Maturita\Otázky a úlohy\2.Vizualizace, zásobník teplé vody (Promotic)\Data
+2021.05.09 17:38:24.947  SYSTEM: New directory: D:\Škola\Maturita\Otázky a úlohy\2.Vizualizace, zásobník teplé vody (Promotic)\Cfg
+2021.05.09 17:38:24.968  SYSTEM: Start Rt-0
+2021.05.09 17:38:24.970  SYSTEM: Start Rt-1
+2021.05.09 17:38:25.010  SYSTEM: Start Rt-2
+2021.05.09 17:38:25.969  ERROR Count:1 Ident:PmTimer: /casovac, Event: onTick, [30,3] Note:Pøeteèení
+2021.05.09 17:39:00.672  SYSTEM: Calling Pm.AppStop
+2021.05.09 17:39:00.678  SYSTEM: Stop Rt
+2021.05.09 17:39:00.853  SYSTEM: Stop Rt Done
+2021.05.09 17:40:29.897  SYSTEM: Start Rt
+2021.05.09 17:40:32.181  SYSTEM: Start Rt-0
+2021.05.09 17:40:32.182  SYSTEM: Start Rt-1
+2021.05.09 17:40:32.208  SYSTEM: Start Rt-2
+2021.05.09 17:40:33.185  ERROR Count:1 Ident:PmTimer: /casovac, Event: onTick, [30,3] Note:Pøeteèení
+2021.05.09 17:41:52.733  SYSTEM: Stop Rt
+2021.05.09 17:41:52.884  SYSTEM: Stop Rt Done
+2021.05.09 17:41:52.977  SYSTEM: Stop App
+2021.05.09 17:41:52.979  SYSTEM: Stop App Done
+2021.05.10 08:00:24.262  SYSTEM: Start App licence=0
+2021.05.10 08:00:24.263  SYSTEM: Windows:  unknown Windows version
+2021.05.10 08:00:24.264  SYSTEM: Promotic: Promotic7.5.7
+2021.05.10 08:00:24.311  SYSTEM: Application: Promotic7.5.7
+2021.05.10 08:00:24.359  SYSTEM: Start App Done
+2021.05.10 08:04:35.573  SYSTEM: Start Rt
+2021.05.10 08:04:38.343  SYSTEM: Start Rt-0
+2021.05.10 08:04:38.347  SYSTEM: Start Rt-1
+2021.05.10 08:04:38.394  SYSTEM: Start Rt-2
+2021.05.10 08:04:39.348  ERROR Count:1 Ident:PmTimer: /casovac, Event: onTick, [30,3] Note:Pøeteèení
+2021.05.10 08:08:14.990  SYSTEM: Calling Pm.AppStop
+2021.05.10 08:08:14.998  SYSTEM: Stop Rt
+2021.05.10 08:08:15.207  SYSTEM: Stop Rt Done
+2021.05.10 08:17:57.152  SYSTEM: Start Rt
+2021.05.10 08:17:58.542  SYSTEM: Start Rt-0
+2021.05.10 08:17:58.545  SYSTEM: Start Rt-1
+2021.05.10 08:17:58.616  SYSTEM: Start Rt-2
+2021.05.10 08:17:59.542  ERROR Count:1 Ident:PmTimer: /casovac, Event: onTick, [29,3] Note:Pøeteèení
+2021.05.10 08:18:54.159  SYSTEM: Calling Pm.AppStop
+2021.05.10 08:18:54.167  SYSTEM: Stop Rt
+2021.05.10 08:18:54.648  SYSTEM: Stop Rt Done
+2021.05.10 08:22:53.584  SYSTEM: Start Rt
+2021.05.10 08:22:55.284  SYSTEM: Start Rt-0
+2021.05.10 08:22:55.289  SYSTEM: Start Rt-1
+2021.05.10 08:22:55.360  SYSTEM: Start Rt-2
+2021.05.10 08:22:56.279  ERROR Count:1 Ident:PmTimer: /casovac, Event: onTick, [29,3] Note:Pøeteèení
+2021.05.10 08:23:22.907  SYSTEM: Calling Pm.AppStop
+2021.05.10 08:23:22.929  SYSTEM: Stop Rt
+2021.05.10 08:23:23.361  SYSTEM: Stop Rt Done
+2021.05.10 08:24:46.808  SYSTEM: Start Rt
+2021.05.10 08:24:48.211  SYSTEM: Start Rt-0
+2021.05.10 08:24:48.214  SYSTEM: Start Rt-1
+2021.05.10 08:24:48.250  SYSTEM: Start Rt-2
+2021.05.10 08:24:49.200  ERROR Count:1 Ident:PmTimer: /casovac, Event: onTick, [29,3] Note:Pøeteèení
+2021.05.10 08:25:30.405  SYSTEM: Calling Pm.AppStop
+2021.05.10 08:25:30.425  SYSTEM: Stop Rt
+2021.05.10 08:25:30.808  SYSTEM: Stop Rt Done
+2021.05.10 08:27:25.285  SYSTEM: Start Rt
+2021.05.10 08:27:25.399  SYSTEM: Start Rt-0
+2021.05.10 08:27:25.403  SYSTEM: Start Rt-1
+2021.05.10 08:27:25.458  SYSTEM: Start Rt-2
+2021.05.10 08:27:26.404  ERROR Count:1 Ident:PmTimer: /casovac, Event: onTick, [29,3] Note:Pøeteèení
+2021.05.10 08:28:10.866  SYSTEM: Calling Pm.AppStop
+2021.05.10 08:28:10.884  SYSTEM: Stop Rt
+2021.05.10 08:28:11.208  SYSTEM: Stop Rt Done
+2021.05.10 08:28:37.698  SYSTEM: Stop App
+2021.05.10 08:28:37.700  SYSTEM: Stop App Done
+2021.05.10 08:48:20.760  SYSTEM: Start App licence=0
+2021.05.10 08:48:20.858  SYSTEM: Windows:  unknown Windows version
+2021.05.10 08:48:20.859  SYSTEM: Promotic: Promotic7.5.7
+2021.05.10 08:48:20.965  SYSTEM: Application: Promotic7.5.7
+2021.05.10 08:48:21.018  SYSTEM: Start App Done
+2021.05.10 08:54:17.844  SYSTEM: Start Rt
+2021.05.10 08:54:19.669  ERROR Count:1 Ident:for XML client communication WinHttp5.dll can not be loaded, ActiveX used instead
+2021.05.10 08:54:19.713  SYSTEM: Start Rt-0
+2021.05.10 08:54:19.716  SYSTEM: Start Rt-1
+2021.05.10 08:54:19.754  SYSTEM: Start Rt-2
+2021.05.10 08:54:20.718  ERROR Count:1 Ident:PmTimer: /casovac, Event: onTick, [29,3] Note:Pøeteèení
+2021.05.10 08:54:55.902  SYSTEM: Calling Pm.AppStop
+2021.05.10 08:54:55.914  SYSTEM: Stop Rt
+2021.05.10 08:54:56.145  SYSTEM: Stop Rt Done
+2021.05.10 09:02:39.776  SYSTEM: Start Rt
+2021.05.10 09:02:40.050  SYSTEM: Start Rt-0
+2021.05.10 09:02:40.055  SYSTEM: Start Rt-1
+2021.05.10 09:02:40.144  SYSTEM: Start Rt-2
+2021.05.10 09:02:41.044  ERROR Count:1 Ident:PmTimer: /casovac, Event: onTick, [25,3] Note:Pøeteèení
+2021.05.10 09:04:40.773  SYSTEM: Calling Pm.AppStop
+2021.05.10 09:04:40.789  SYSTEM: Stop Rt
+2021.05.10 09:04:41.056  SYSTEM: Stop Rt Done
+2021.05.10 09:20:09.268  SYSTEM: Start Rt
+2021.05.10 09:20:09.563  SYSTEM: Start Rt-0
+2021.05.10 09:20:09.566  SYSTEM: Start Rt-1
+2021.05.10 09:20:09.612  SYSTEM: Start Rt-2
+2021.05.10 09:20:10.560  ERROR Count:1 Ident:PmTimer: /casovac, Event: onTick, [26,3] Note:Pøeteèení
+2021.05.10 09:20:26.288  SYSTEM: Calling Pm.AppStop
+2021.05.10 09:20:26.297  SYSTEM: Stop Rt
+2021.05.10 09:20:26.610  SYSTEM: Stop Rt Done
+2021.05.10 09:20:58.166  SYSTEM: Start Rt
+2021.05.10 09:20:58.397  SYSTEM: Start Rt-0
+2021.05.10 09:20:58.402  SYSTEM: Start Rt-1
+2021.05.10 09:20:58.472  SYSTEM: Start Rt-2
+2021.05.10 09:20:59.403  ERROR Count:1 Ident:PmTimer: /casovac, Event: onTick, [26,3] Note:Pøeteèení
+2021.05.10 09:21:00.300  SYSTEM: Calling Pm.AppStop
+2021.05.10 09:21:00.320  SYSTEM: Stop Rt
+2021.05.10 09:21:00.645  SYSTEM: Stop Rt Done
+2021.05.10 09:21:02.204  SYSTEM: Start Rt
+2021.05.10 09:21:02.532  SYSTEM: Start Rt-0
+2021.05.10 09:21:02.539  SYSTEM: Start Rt-1
+2021.05.10 09:21:02.630  SYSTEM: Start Rt-2
+2021.05.10 09:21:44.587  SYSTEM: Calling Pm.AppStop
+2021.05.10 09:21:44.601  SYSTEM: Stop Rt
+2021.05.10 09:21:44.961  SYSTEM: Stop Rt Done
+2021.05.10 09:27:08.595  SYSTEM: Start Rt
+2021.05.10 09:27:08.697  SYSTEM: Start Rt-0
+2021.05.10 09:27:08.700  SYSTEM: Start Rt-1
+2021.05.10 09:27:08.735  SYSTEM: Start Rt-2
+2021.05.10 09:27:09.700  ERROR Count:1 Ident:PmTimer: /casovac, Event: onTick, [26,3] Note:Pøeteèení
+2021.05.10 09:28:18.479  SYSTEM: Calling Pm.AppStop
+2021.05.10 09:28:18.489  SYSTEM: Stop Rt
+2021.05.10 09:28:18.746  SYSTEM: Stop Rt Done
+2021.05.10 09:33:36.999  SYSTEM: Start Rt
+2021.05.10 09:33:37.128  SYSTEM: Start Rt-0
+2021.05.10 09:33:37.131  SYSTEM: Start Rt-1
+2021.05.10 09:33:37.169  SYSTEM: Start Rt-2
+2021.05.10 09:33:38.120  ERROR Count:1 Ident:PmTimer: /casovac, Event: onTick, [26,3] Note:Pøeteèení
+2021.05.10 09:33:59.099  SYSTEM: Calling Pm.AppStop
+2021.05.10 09:33:59.114  SYSTEM: Stop Rt
+2021.05.10 09:33:59.516  SYSTEM: Stop Rt Done
+2021.05.10 09:40:41.008  SYSTEM: Stop App
+2021.05.10 09:40:41.011  SYSTEM: Stop App Done
+2021.05.13 00:20:47.210  SYSTEM: Start App licence=0
+2021.05.13 00:20:47.212  SYSTEM: Windows:  unknown Windows version
+2021.05.13 00:20:47.213  SYSTEM: Promotic: Promotic7.5.7
+2021.05.13 00:20:47.218  SYSTEM: Application: Promotic7.5.7
+2021.05.13 00:20:47.268  SYSTEM: Start App Done
+2021.05.13 00:20:51.534  SYSTEM: Start Rt
+2021.05.13 00:20:51.678  SYSTEM: Start Rt-0
+2021.05.13 00:20:51.681  SYSTEM: Start Rt-1
+2021.05.13 00:20:51.747  SYSTEM: Start Rt-2
+2021.05.13 00:20:52.677  ERROR Count:1 Ident:PmTimer: /casovac, Event: onTick, [26,3] Note:Pøeteèení
+2021.05.13 00:20:58.639  SYSTEM: Calling Pm.AppStop
+2021.05.13 00:20:58.652  SYSTEM: Stop Rt
+2021.05.13 00:20:58.969  SYSTEM: Stop Rt Done
+2021.05.13 00:21:56.887  SYSTEM: Start Rt
+2021.05.13 00:21:57.042  SYSTEM: Start Rt-0
+2021.05.13 00:21:57.047  SYSTEM: Start Rt-1
+2021.05.13 00:21:57.117  SYSTEM: Start Rt-2
+2021.05.13 00:21:58.033  ERROR Count:1 Ident:PmTimer: /casovac, Event: onTick, [26,3] Note:Pøeteèení
+2021.05.13 00:21:58.458  SYSTEM: Stop Rt
+2021.05.13 00:21:58.730  SYSTEM: Stop Rt Done
+2021.05.13 00:21:58.900  SYSTEM: Stop App
+2021.05.13 00:21:58.902  SYSTEM: Stop App Done
+2021.05.13 00:22:16.960  SYSTEM: Start App licence=0
+2021.05.13 00:22:16.961  SYSTEM: Windows:  unknown Windows version
+2021.05.13 00:22:16.963  SYSTEM: Promotic: Promotic7.5.7
+2021.05.13 00:22:16.967  SYSTEM: Application: Promotic7.5.7
+2021.05.13 00:22:17.020  SYSTEM: Start App Done
+2021.05.13 00:22:20.961  SYSTEM: Start Rt
+2021.05.13 00:22:21.103  SYSTEM: Start Rt-0
+2021.05.13 00:22:21.106  SYSTEM: Start Rt-1
+2021.05.13 00:22:21.210  SYSTEM: Start Rt-2
+2021.05.13 00:22:22.096  ERROR Count:1 Ident:PmTimer: /casovac, Event: onTick, [26,3] Note:Pøeteèení
+2021.05.13 00:22:36.237  SYSTEM: Calling Pm.AppStop
+2021.05.13 00:22:36.249  SYSTEM: Stop Rt
+2021.05.13 00:22:36.528  SYSTEM: Stop Rt Done
+2021.05.13 00:22:37.561  SYSTEM: Stop App
+2021.05.13 00:22:37.564  SYSTEM: Stop App Done
+2021.05.16 14:33:14.902  SYSTEM: Start App licence=0
+2021.05.16 14:33:14.904  SYSTEM: Windows:  unknown Windows version
+2021.05.16 14:33:14.905  SYSTEM: Promotic: Promotic7.5.7
+2021.05.16 14:33:14.910  SYSTEM: Application: Promotic7.5.7
+2021.05.16 14:33:14.962  SYSTEM: Start App Done
+2021.05.16 14:37:20.438  SYSTEM: Stop App
+2021.05.16 14:37:20.442  SYSTEM: Stop App Done
+2021.05.17 19:38:47.640  SYSTEM: Start App licence=0
+2021.05.17 19:38:47.642  SYSTEM: Windows:  unknown Windows version
+2021.05.17 19:38:47.643  SYSTEM: Promotic: Promotic7.5.7
+2021.05.17 19:38:47.649  SYSTEM: Application: Promotic7.5.7
+2021.05.17 19:38:47.702  SYSTEM: Start App Done
+2021.05.17 19:39:10.481  SYSTEM: Start Rt
+2021.05.17 19:39:10.643  SYSTEM: Start Rt-0
+2021.05.17 19:39:10.647  SYSTEM: Start Rt-1
+2021.05.17 19:39:10.806  SYSTEM: Start Rt-2
+2021.05.17 19:39:11.651  ERROR Count:1 Ident:PmTimer: /casovac, Event: onTick, [29,3] Note:Pøeteèení
+2021.05.17 19:39:13.064  SYSTEM: Calling Pm.AppStop
+2021.05.17 19:39:13.076  SYSTEM: Stop Rt
+2021.05.17 19:39:13.532  SYSTEM: Stop Rt Done
+2021.05.17 20:00:30.677  SYSTEM: Start Rt
+2021.05.17 20:00:30.828  SYSTEM: Start Rt-0
+2021.05.17 20:00:30.831  SYSTEM: Start Rt-1
+2021.05.17 20:00:30.881  SYSTEM: Start Rt-2
+2021.05.17 20:00:31.834  ERROR Count:1 Ident:PmTimer: /casovac, Event: onTick, [29,3] Note:Pøeteèení
+2021.05.17 20:00:49.995  SYSTEM: Calling Pm.AppStop
+2021.05.17 20:00:50.008  SYSTEM: Stop Rt
+2021.05.17 20:00:50.384  SYSTEM: Stop Rt Done
+2021.05.17 20:02:33.006  SYSTEM: Stop App
+2021.05.17 20:02:33.010  SYSTEM: Stop App Done
+2021.05.17 20:02:52.240  SYSTEM: Start App licence=0
+2021.05.17 20:02:52.241  SYSTEM: Windows:  unknown Windows version
+2021.05.17 20:02:52.242  SYSTEM: Promotic: Promotic7.5.7
+2021.05.17 20:02:52.247  SYSTEM: Application: Promotic7.5.7
+2021.05.17 20:02:52.298  SYSTEM: Start App Done
+2021.05.17 20:22:07.035  SYSTEM: Start App licence=0
+2021.05.17 20:22:07.036  SYSTEM: Windows:  unknown Windows version
+2021.05.17 20:22:07.037  SYSTEM: Promotic: Promotic7.5.7
+2021.05.17 20:22:07.042  SYSTEM: Application: Promotic7.5.7
+2021.05.17 20:22:07.093  SYSTEM: Start App Done
+2021.05.17 20:22:13.142  SYSTEM: Stop App
+2021.05.17 20:22:13.144  SYSTEM: Stop App Done
+2021.05.17 20:29:49.316  SYSTEM: Start App licence=0
+2021.05.17 20:29:49.317  SYSTEM: Windows:  unknown Windows version
+2021.05.17 20:29:49.318  SYSTEM: Promotic: Promotic7.5.7
+2021.05.17 20:29:49.325  SYSTEM: Application: Promotic7.5.7
+2021.05.17 20:29:49.389  SYSTEM: Start App Done
+2021.05.17 20:32:02.295  SYSTEM: Stop App
+2021.05.17 20:32:02.297  SYSTEM: Stop App Done

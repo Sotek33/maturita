@@ -1,0 +1,423 @@
+2020.12.14 08:04:53.246  SYSTEM: Start App
+2020.12.14 08:04:53.246  SYSTEM: Windows:  unknown Windows version Service Pack 1
+2020.12.14 08:04:53.247  SYSTEM: Promotic: Promotic7.3.11
+2020.12.14 08:04:53.269  SYSTEM: New directory: C:\VAS\4.C\LABAJ\u3\Resource
+2020.12.14 08:04:53.270  SYSTEM: New directory: C:\VAS\4.C\LABAJ\u3\Data
+2020.12.14 08:04:53.271  SYSTEM: New directory: C:\VAS\4.C\LABAJ\u3\Cfg
+2020.12.14 08:04:53.275  SYSTEM: SaveAll App
+2020.12.14 08:04:53.393  SYSTEM: Start App Done
+2020.12.14 09:24:10.983  SYSTEM: Start Rt
+2020.12.14 09:24:11.106  SYSTEM: Start Rt-0
+2020.12.14 09:24:11.129  SYSTEM: Start Rt-1
+2020.12.14 09:24:11.138  SYSTEM: Start Rt-2
+2020.12.14 09:24:12.129  ERROR Count:1 Ident:PmTimer: /casovac, Event: TimerTick, [15,2] Note:Promìnná není definovaná.: 'cilo'
+2020.12.14 09:24:47.234  SYSTEM: Calling Pm.AppStop
+2020.12.14 09:24:47.252  SYSTEM: Stop Rt
+2020.12.14 09:24:47.336  SYSTEM: Stop Rt Done
+2020.12.14 09:26:58.102  SYSTEM: Start Rt
+2020.12.14 09:26:58.212  SYSTEM: Start Rt-0
+2020.12.14 09:26:58.245  SYSTEM: Start Rt-1
+2020.12.14 09:26:58.248  SYSTEM: Start Rt-2
+2020.12.14 09:26:59.217  ERROR Count:1 Ident:PmTimer: /casovac, Event: TimerTick, [15,2] Note:Promìnná není definovaná.: 'cilo'
+2020.12.14 09:27:29.662  SYSTEM: Calling Pm.AppStop
+2020.12.14 09:27:29.680  SYSTEM: Stop Rt
+2020.12.14 09:27:29.763  SYSTEM: Stop Rt Done
+2020.12.14 09:29:37.360  SYSTEM: Stop App
+2020.12.14 09:29:37.362  SYSTEM: Stop App Done
+2021.04.27 12:40:41.875  SYSTEM: Start App
+2021.04.27 12:40:41.875  SYSTEM: Windows:  unknown Windows version Service Pack 1
+2021.04.27 12:40:41.875  SYSTEM: Promotic: Promotic7.3.11
+2021.04.27 12:40:41.932  SYSTEM: Application: Promotic7.3.11
+2021.04.27 12:40:41.962  SYSTEM: Start App Done
+2021.04.27 12:41:19.355  SYSTEM: Start Rt
+2021.04.27 12:41:19.446  SYSTEM: Start Rt-0
+2021.04.27 12:41:19.468  SYSTEM: Start Rt-1
+2021.04.27 12:41:19.472  SYSTEM: Start Rt-2
+2021.04.27 12:41:20.506  ERROR Count:1 Ident:PmTimer: /casovac, Event: TimerTick, [15,2] Note:Promìnná není definovaná.: 'cilo'
+2021.04.27 12:41:36.988  SYSTEM: Calling Pm.AppStop
+2021.04.27 12:41:36.998  SYSTEM: Stop Rt
+2021.04.27 12:41:37.093  SYSTEM: Stop Rt Done
+2021.04.27 12:49:23.408  SYSTEM: Start Rt
+2021.04.27 12:49:23.526  SYSTEM: Start Rt-0
+2021.04.27 12:49:23.556  SYSTEM: Start Rt-1
+2021.04.27 12:49:23.558  SYSTEM: Start Rt-2
+2021.04.27 12:49:24.567  ERROR Count:1 Ident:PmTimer: /casovac, Event: TimerTick, [15,2] Note:Promìnná není definovaná.: 'cilo'
+2021.04.27 12:49:31.660  SYSTEM: Calling Pm.AppStop
+2021.04.27 12:49:31.670  SYSTEM: Stop Rt
+2021.04.27 12:49:31.740  SYSTEM: Stop Rt Done
+2021.04.27 12:50:23.984  SYSTEM: Start Rt
+2021.04.27 12:50:24.091  SYSTEM: Start Rt-0
+2021.04.27 12:50:24.111  SYSTEM: Start Rt-1
+2021.04.27 12:50:24.115  SYSTEM: Start Rt-2
+2021.04.27 12:50:25.125  ERROR Count:1 Ident:PmTimer: /casovac, Event: TimerTick, [15,2] Note:Promìnná není definovaná.: 'cilo'
+2021.04.27 12:50:32.108  SYSTEM: Calling Pm.AppStop
+2021.04.27 12:50:32.118  SYSTEM: Stop Rt
+2021.04.27 12:50:32.185  SYSTEM: Stop Rt Done
+2021.04.27 12:52:21.216  SYSTEM: Start Rt
+2021.04.27 12:52:21.318  SYSTEM: Start Rt-0
+2021.04.27 12:52:21.342  SYSTEM: Start Rt-1
+2021.04.27 12:52:21.347  SYSTEM: Start Rt-2
+2021.04.27 12:52:22.350  ERROR Count:1 Ident:PmTimer: /casovac, Event: TimerTick, [15,2] Note:Promìnná není definovaná.: 'cilo'
+2021.04.27 12:53:13.116  SYSTEM: Calling Pm.AppStop
+2021.04.27 12:53:13.126  SYSTEM: Stop Rt
+2021.04.27 12:53:13.203  SYSTEM: Stop Rt Done
+2021.04.27 12:54:59.241  SYSTEM: Start Rt
+2021.04.27 12:54:59.363  SYSTEM: Start Rt-0
+2021.04.27 12:54:59.387  SYSTEM: Start Rt-1
+2021.04.27 12:54:59.392  SYSTEM: Start Rt-2
+2021.04.27 12:55:00.390  ERROR Count:1 Ident:PmTimer: /casovac, Event: TimerTick, [15,2] Note:Promìnná není definovaná.: 'cilo'
+2021.04.27 12:55:15.747  SYSTEM: Calling Pm.AppStop
+2021.04.27 12:55:15.766  SYSTEM: Stop Rt
+2021.04.27 12:55:15.839  SYSTEM: Stop Rt Done
+2021.04.27 12:56:24.151  SYSTEM: Start Rt
+2021.04.27 12:56:24.254  SYSTEM: Start Rt-0
+2021.04.27 12:56:24.299  SYSTEM: Start Rt-1
+2021.04.27 12:56:24.303  SYSTEM: Start Rt-2
+2021.04.27 12:57:05.322  SYSTEM: Calling Pm.AppStop
+2021.04.27 12:57:05.341  SYSTEM: Stop Rt
+2021.04.27 12:57:05.437  SYSTEM: Stop Rt Done
+2021.04.27 13:00:33.109  SYSTEM: Start Rt
+2021.04.27 13:00:33.215  SYSTEM: Start Rt-0
+2021.04.27 13:00:33.239  SYSTEM: Start Rt-1
+2021.04.27 13:00:33.253  SYSTEM: Start Rt-2
+2021.04.27 13:01:13.709  SYSTEM: Calling Pm.AppStop
+2021.04.27 13:01:13.728  SYSTEM: Stop Rt
+2021.04.27 13:01:13.817  SYSTEM: Stop Rt Done
+2021.04.27 13:07:00.262  SYSTEM: Start Rt
+2021.04.27 13:07:00.370  SYSTEM: Start Rt-0
+2021.04.27 13:07:00.394  SYSTEM: Start Rt-1
+2021.04.27 13:07:00.398  SYSTEM: Start Rt-2
+2021.04.27 13:07:43.094  SYSTEM: Calling Pm.AppStop
+2021.04.27 13:07:43.113  SYSTEM: Stop Rt
+2021.04.27 13:07:43.204  SYSTEM: Stop Rt Done
+2021.04.27 13:08:29.835  SYSTEM: Start Rt
+2021.04.27 13:08:29.932  SYSTEM: Start Rt-0
+2021.04.27 13:08:29.955  SYSTEM: Start Rt-1
+2021.04.27 13:08:29.959  SYSTEM: Start Rt-2
+2021.04.27 13:09:07.290  SYSTEM: Calling Pm.AppStop
+2021.04.27 13:09:07.310  SYSTEM: Stop Rt
+2021.04.27 13:09:07.400  SYSTEM: Stop Rt Done
+2021.04.27 13:10:16.158  SYSTEM: Start Rt
+2021.04.27 13:10:16.251  SYSTEM: Start Rt-0
+2021.04.27 13:10:16.290  SYSTEM: Start Rt-1
+2021.04.27 13:10:16.306  SYSTEM: Start Rt-2
+2021.04.27 13:15:35.143  SYSTEM: Calling Pm.AppStop
+2021.04.27 13:15:35.165  SYSTEM: Stop Rt
+2021.04.27 13:15:35.278  SYSTEM: Stop Rt Done
+2021.04.27 13:20:28.878  SYSTEM: Start Rt
+2021.04.27 13:20:28.964  SYSTEM: Start Rt-0
+2021.04.27 13:20:28.989  SYSTEM: Start Rt-1
+2021.04.27 13:20:28.990  SYSTEM: Start Rt-2
+2021.04.27 13:21:04.632  SYSTEM: Calling Pm.AppStop
+2021.04.27 13:21:04.651  SYSTEM: Stop Rt
+2021.04.27 13:21:04.726  SYSTEM: Stop Rt Done
+2021.04.27 13:21:06.285  SYSTEM: Start Rt
+2021.04.27 13:21:06.360  SYSTEM: Start Rt-0
+2021.04.27 13:21:06.385  SYSTEM: Start Rt-1
+2021.04.27 13:21:06.388  SYSTEM: Start Rt-2
+2021.04.27 13:21:15.424  SYSTEM: Calling Pm.AppStop
+2021.04.27 13:21:15.443  SYSTEM: Stop Rt
+2021.04.27 13:21:15.516  SYSTEM: Stop Rt Done
+2021.04.27 13:28:59.457  SYSTEM: Start Rt
+2021.04.27 13:28:59.583  SYSTEM: Start Rt-0
+2021.04.27 13:28:59.609  SYSTEM: Start Rt-1
+2021.04.27 13:28:59.612  SYSTEM: Start Rt-2
+2021.04.27 13:29:00.659  ERROR Count:1 Ident:PmPanel:/obraz,PmiButton: /button0,ID=0 , Event: ButtonDown, [1,1] Note:Promìnná není definovaná.: 'radic'
+2021.04.27 13:29:30.386  SYSTEM: Calling Pm.AppStop
+2021.04.27 13:29:30.405  SYSTEM: Stop Rt
+2021.04.27 13:29:30.502  SYSTEM: Stop Rt Done
+2021.04.27 13:33:26.283  SYSTEM: Start Rt
+2021.04.27 13:33:26.383  SYSTEM: Start Rt-0
+2021.04.27 13:33:26.410  SYSTEM: Start Rt-1
+2021.04.27 13:33:26.414  SYSTEM: Start Rt-2
+2021.04.27 13:33:27.899  ERROR Count:1 Ident:PmPanel:/obraz,PmiButton: /button0,ID=0 , Event: ButtonDown, [1,1] Note:Promìnná není definovaná.: 'radic'
+2021.04.27 13:34:06.602  SYSTEM: Calling Pm.AppStop
+2021.04.27 13:34:06.621  SYSTEM: Stop Rt
+2021.04.27 13:34:06.713  SYSTEM: Stop Rt Done
+2021.04.27 13:36:05.247  SYSTEM: Start Rt
+2021.04.27 13:36:05.340  SYSTEM: Start Rt-0
+2021.04.27 13:36:05.369  SYSTEM: Start Rt-1
+2021.04.27 13:36:05.372  SYSTEM: Start Rt-2
+2021.04.27 13:36:47.481  ERROR Count:1 Ident:PmPanel:/obraz,PmiButton: /button1,ID=1 , Event: ButtonDown, [1,1] Note:Promìnná není definovaná.: 'radic'
+2021.04.27 13:36:50.929  ERROR Count:1 Ident:PmPanel:/obraz,PmiButton: /button0,ID=0 , Event: ButtonDown, [1,1] Note:Promìnná není definovaná.: 'radic'
+2021.04.27 13:36:52.057  SYSTEM: Calling Pm.AppStop
+2021.04.27 13:36:52.076  SYSTEM: Stop Rt
+2021.04.27 13:36:52.161  SYSTEM: Stop Rt Done
+2021.04.27 13:42:27.717  SYSTEM: Start Rt
+2021.04.27 13:42:27.810  SYSTEM: Start Rt-0
+2021.04.27 13:42:27.829  SYSTEM: Start Rt-1
+2021.04.27 13:42:27.833  SYSTEM: Start Rt-2
+2021.04.27 13:42:29.279  ERROR Count:1 Ident:PmPanel:/obraz,PmiButton: /button0,ID=0 , Event: ButtonDown, [1,1] Note:Objekt tuto vlastnost nebo metodu nepodporuje.: 'pEvent.NextState'
+2021.04.27 13:42:59.511  ERROR Count:1 Ident:PmPanel:/obraz,PmiButton: /button1,ID=1 , Event: ButtonDown, [1,1] Note:Promìnná není definovaná.: 'radic'
+2021.04.27 13:46:44.542  SYSTEM: Calling Pm.AppStop
+2021.04.27 13:46:44.563  SYSTEM: Stop Rt
+2021.04.27 13:46:44.670  SYSTEM: Stop Rt Done
+2021.04.27 13:46:47.031  SYSTEM: Stop App
+2021.04.27 13:46:47.033  SYSTEM: Stop App Done
+2021.04.29 08:56:51.680  SYSTEM: Start App
+2021.04.29 08:56:51.691  SYSTEM: Windows:  unknown Windows version Service Pack 1
+2021.04.29 08:56:51.691  SYSTEM: Promotic: Promotic7.3.11
+2021.04.29 08:56:51.712  SYSTEM: Application: Promotic7.3.11
+2021.04.29 08:56:51.762  SYSTEM: Start App Done
+2021.04.29 08:56:54.758  SYSTEM: Start Rt
+2021.04.29 08:56:54.838  SYSTEM: Start Rt-0
+2021.04.29 08:56:54.875  SYSTEM: Start Rt-1
+2021.04.29 08:56:54.877  SYSTEM: Start Rt-2
+2021.04.29 08:57:26.764  SYSTEM: Calling Pm.AppStop
+2021.04.29 08:57:26.782  SYSTEM: Stop Rt
+2021.04.29 08:57:26.895  SYSTEM: Stop Rt Done
+2021.04.29 09:00:22.567  SYSTEM: Start Rt
+2021.04.29 09:00:22.673  SYSTEM: Start Rt-0
+2021.04.29 09:00:22.713  SYSTEM: Start Rt-1
+2021.04.29 09:00:22.717  SYSTEM: Start Rt-2
+2021.04.29 09:00:24.993  ERROR Count:1 Ident:PmPanel:/obraz,PmiButton: /button0,ID=0 , Event: ButtonDown, [1,1] Note:Objekt tuto vlastnost nebo metodu nepodporuje.: 'pEvent.NextState'
+2021.04.29 09:00:57.768  ERROR Count:1 Ident:PmPanel:/obraz,PmiButton: /button1,ID=1 , Event: ButtonDown, [1,1] Note:Objekt tuto vlastnost nebo metodu nepodporuje.: 'pEvent.NextState'
+2021.04.29 09:01:02.920  SYSTEM: Calling Pm.AppStop
+2021.04.29 09:01:02.939  SYSTEM: Stop Rt
+2021.04.29 09:01:03.042  SYSTEM: Stop Rt Done
+2021.04.29 09:12:36.591  SYSTEM: Start Rt
+2021.04.29 09:12:36.682  SYSTEM: Start Rt-0
+2021.04.29 09:12:36.684  SYSTEM: Start Rt-1
+2021.04.29 09:12:36.696  SYSTEM: Start Rt-2
+2021.04.29 09:13:26.121  SYSTEM: Calling Pm.AppStop
+2021.04.29 09:13:26.140  SYSTEM: Stop Rt
+2021.04.29 09:13:26.232  SYSTEM: Stop Rt Done
+2021.04.29 09:14:49.910  SYSTEM: Start Rt
+2021.04.29 09:14:49.997  SYSTEM: Start Rt-0
+2021.04.29 09:14:50.000  SYSTEM: Start Rt-1
+2021.04.29 09:14:50.004  SYSTEM: Start Rt-2
+2021.04.29 09:14:51.008  ERROR Count:1 Ident:PmObject "/xd/casovac" (PmTimer) .Pm: Referenced object does not exist (xd/cislo) Note:(PmTimer: /xd/casovac, Event: TimerTick)
+2021.04.29 09:14:51.008  ERROR Count:1 Ident:PmTimer: /xd/casovac, Event: TimerTick, [15,2] Note:Je požadován objekt.: 'cislo'
+2021.04.29 09:14:51.504  ERROR Count:1 Ident:PmPanel:/xd/obraz,PmiButton: /button0,ID=0 , Event: ButtonDown, [1,1] Note:Objekt tuto vlastnost nebo metodu nepodporuje.: 'pEvent.NextState'
+2021.04.29 09:15:05.304  ERROR Count:1 Ident:PmPanel:/xd/obraz,PmiButton: /button1,ID=1 , Event: ButtonDown, [1,1] Note:Objekt tuto vlastnost nebo metodu nepodporuje.: 'pEvent.NextState'
+2021.04.29 09:15:10.988  SYSTEM: Calling Pm.AppStop
+2021.04.29 09:15:11.006  SYSTEM: Stop Rt
+2021.04.29 09:15:11.099  SYSTEM: Stop Rt Done
+2021.04.29 09:15:28.517  SYSTEM: Start Rt
+2021.04.29 09:15:28.580  SYSTEM: Start Rt-0
+2021.04.29 09:15:28.581  SYSTEM: Start Rt-1
+2021.04.29 09:15:28.584  SYSTEM: Start Rt-2
+2021.04.29 09:15:29.587  ERROR Count:1 Ident:PmObject "/xd/casovac" (PmTimer) .Pm: Referenced object does not exist (xd/cislo) Note:(PmTimer: /xd/casovac, Event: TimerTick)
+2021.04.29 09:15:29.587  ERROR Count:1 Ident:PmTimer: /xd/casovac, Event: TimerTick, [15,2] Note:Je požadován objekt.: 'cislo'
+2021.04.29 09:15:39.568  ERROR Count:1 Ident:PmPanel:/xd/obraz,PmiButton: /button1,ID=1 , Event: ButtonDown, [1,1] Note:Objekt tuto vlastnost nebo metodu nepodporuje.: 'pEvent.NextState'
+2021.04.29 09:15:39.976  ERROR Count:1 Ident:PmPanel:/xd/obraz,PmiButton: /button0,ID=0 , Event: ButtonDown, [1,1] Note:Objekt tuto vlastnost nebo metodu nepodporuje.: 'pEvent.NextState'
+2021.04.29 09:15:44.334  SYSTEM: Calling Pm.AppStop
+2021.04.29 09:15:44.352  SYSTEM: Stop Rt
+2021.04.29 09:15:44.428  SYSTEM: Stop Rt Done
+2021.04.29 09:16:12.398  SYSTEM: Start Rt
+2021.04.29 09:16:12.463  SYSTEM: Start Rt-0
+2021.04.29 09:16:12.465  SYSTEM: Start Rt-1
+2021.04.29 09:16:12.471  SYSTEM: Start Rt-2
+2021.04.29 09:16:52.742  SYSTEM: Calling Pm.AppStop
+2021.04.29 09:16:52.761  SYSTEM: Stop Rt
+2021.04.29 09:16:52.866  SYSTEM: Stop Rt Done
+2021.04.29 09:17:17.074  SYSTEM: Stop App
+2021.04.29 09:17:17.076  SYSTEM: Stop App Done
+2021.04.29 09:17:20.956  SYSTEM: Start App
+2021.04.29 09:17:20.956  SYSTEM: Windows:  unknown Windows version Service Pack 1
+2021.04.29 09:17:20.956  SYSTEM: Promotic: Promotic7.3.11
+2021.04.29 09:17:20.966  SYSTEM: Application: Promotic7.3.11
+2021.04.29 09:17:20.995  SYSTEM: Start App Done
+2021.04.29 09:17:37.106  SYSTEM: Start Rt
+2021.04.29 09:17:37.180  SYSTEM: Start Rt-0
+2021.04.29 09:17:37.183  SYSTEM: Start Rt-1
+2021.04.29 09:17:37.194  SYSTEM: Start Rt-2
+2021.04.29 09:18:15.986  SYSTEM: Calling Pm.AppStop
+2021.04.29 09:18:16.005  SYSTEM: Stop Rt
+2021.04.29 09:18:16.098  SYSTEM: Stop Rt Done
+2021.04.29 09:18:18.581  SYSTEM: Start Rt
+2021.04.29 09:18:18.648  SYSTEM: Start Rt-0
+2021.04.29 09:18:18.661  SYSTEM: Start Rt-1
+2021.04.29 09:18:18.666  SYSTEM: Start Rt-2
+2021.04.29 09:19:05.712  ERROR Count:1 Ident:PmPanel:/xd/obraz,PmiButton: /button1,ID=1 , Event: ButtonDown, [1,1] Note:Objekt tuto vlastnost nebo metodu nepodporuje.: 'pEvent.NextState'
+2021.04.29 09:19:06.071  ERROR Count:1 Ident:PmPanel:/xd/obraz,PmiButton: /button0,ID=0 , Event: ButtonDown, [1,1] Note:Objekt tuto vlastnost nebo metodu nepodporuje.: 'pEvent.NextState'
+2021.04.29 09:19:08.590  SYSTEM: Calling Pm.AppStop
+2021.04.29 09:19:08.608  SYSTEM: Stop Rt
+2021.04.29 09:19:08.702  SYSTEM: Stop Rt Done
+2021.04.29 09:20:01.885  SYSTEM: Start Rt
+2021.04.29 09:20:01.939  SYSTEM: Start Rt-0
+2021.04.29 09:20:01.940  SYSTEM: Start Rt-1
+2021.04.29 09:20:01.943  SYSTEM: Start Rt-2
+2021.04.29 09:20:02.950  ERROR Count:1 Ident:PmObject "/xd/casovac" (PmTimer) .Pm: Referenced object does not exist (xd/cislo) Note:(PmTimer: /xd/casovac, Event: TimerTick)
+2021.04.29 09:20:02.950  ERROR Count:1 Ident:PmTimer: /xd/casovac, Event: TimerTick, [15,2] Note:Promìnná typu Object není nastavena.
+2021.04.29 09:20:20.510  ERROR Count:1 Ident:PmPanel:/xd/obraz,PmiButton: /button0,ID=0 , Event: ButtonDown, [1,1] Note:Objekt tuto vlastnost nebo metodu nepodporuje.: 'pEvent.NextState'
+2021.04.29 09:20:21.726  ERROR Count:1 Ident:PmPanel:/xd/obraz,PmiButton: /button1,ID=1 , Event: ButtonDown, [1,1] Note:Objekt tuto vlastnost nebo metodu nepodporuje.: 'pEvent.NextState'
+2021.04.29 09:20:26.999  SYSTEM: Calling Pm.AppStop
+2021.04.29 09:20:27.018  SYSTEM: Stop Rt
+2021.04.29 09:20:27.089  SYSTEM: Stop Rt Done
+2021.04.29 09:20:40.650  SYSTEM: Start Rt
+2021.04.29 09:20:40.705  SYSTEM: Start Rt-0
+2021.04.29 09:20:40.712  SYSTEM: Start Rt-1
+2021.04.29 09:20:40.714  SYSTEM: Start Rt-2
+2021.04.29 09:20:58.624  SYSTEM: Calling Pm.AppStop
+2021.04.29 09:20:58.643  SYSTEM: Stop Rt
+2021.04.29 09:20:58.732  SYSTEM: Stop Rt Done
+2021.04.29 09:22:37.771  SYSTEM: Start Rt
+2021.04.29 09:22:37.890  SYSTEM: Start Rt-0
+2021.04.29 09:22:37.895  SYSTEM: Start Rt-1
+2021.04.29 09:22:37.902  SYSTEM: Start Rt-2
+2021.04.29 09:22:59.661  ERROR Count:1 Ident:PmPanel:/xd/obraz,PmiButton: /button0,ID=0 , Event: ButtonDown, [1,1] Note:Objekt tuto vlastnost nebo metodu nepodporuje.: 'pEvent.NextState'
+2021.04.29 09:23:24.747  SYSTEM: Calling Pm.AppStop
+2021.04.29 09:23:24.765  SYSTEM: Stop Rt
+2021.04.29 09:23:24.848  SYSTEM: Stop Rt Done
+2021.04.29 09:24:25.539  SYSTEM: Start Rt
+2021.04.29 09:24:25.620  SYSTEM: Start Rt-0
+2021.04.29 09:24:25.627  SYSTEM: Start Rt-1
+2021.04.29 09:24:25.635  SYSTEM: Start Rt-2
+2021.04.29 09:24:27.021  ERROR Count:1 Ident:PmPanel:/xd/obraz,PmiButton: /button0,ID=0 , Event: ButtonUp, [1,1] Note:Objekt tuto vlastnost nebo metodu nepodporuje.: 'pEvent.NextState'
+2021.04.29 09:25:41.160  SYSTEM: Calling Pm.AppStop
+2021.04.29 09:25:41.180  SYSTEM: Stop Rt
+2021.04.29 09:25:41.282  SYSTEM: Stop Rt Done
+2021.04.29 09:30:03.800  SYSTEM: Start Rt
+2021.04.29 09:30:03.915  SYSTEM: Start Rt-0
+2021.04.29 09:30:03.919  SYSTEM: Start Rt-1
+2021.04.29 09:30:03.925  SYSTEM: Start Rt-2
+2021.04.29 09:30:06.594  ERROR Count:1 Ident:PmPanel:/xd/obraz,PmiButton: /button0,ID=0 , Event: ButtonUp, [1,1] Note:Objekt tuto vlastnost nebo metodu nepodporuje.: 'pEvent.NextState'
+2021.04.29 09:30:37.466  ERROR Count:1 Ident:PmPanel:/xd/obraz,PmiButton: /button1,ID=1 , Event: ButtonDown, [1,1] Note:Objekt tuto vlastnost nebo metodu nepodporuje.: 'pEvent.NextState'
+2021.04.29 09:30:42.303  SYSTEM: Calling Pm.AppStop
+2021.04.29 09:30:42.322  SYSTEM: Stop Rt
+2021.04.29 09:30:42.411  SYSTEM: Stop Rt Done
+2021.04.29 09:30:53.886  SYSTEM: Start Rt
+2021.04.29 09:30:53.962  SYSTEM: Start Rt-0
+2021.04.29 09:30:53.963  SYSTEM: Start Rt-1
+2021.04.29 09:30:53.968  SYSTEM: Start Rt-2
+2021.04.29 09:41:47.179  SYSTEM: Calling Pm.AppStop
+2021.04.29 09:41:47.198  SYSTEM: Stop Rt
+2021.04.29 09:41:47.324  SYSTEM: Stop Rt Done
+2021.04.29 09:45:46.552  SYSTEM: Start Rt
+2021.04.29 09:45:46.619  SYSTEM: Start Rt-0
+2021.04.29 09:45:46.630  SYSTEM: Start Rt-1
+2021.04.29 09:45:46.633  SYSTEM: Start Rt-2
+2021.04.29 09:46:13.067  SYSTEM: Calling Pm.AppStop
+2021.04.29 09:46:13.085  SYSTEM: Stop Rt
+2021.04.29 09:46:13.183  SYSTEM: Stop Rt Done
+2021.04.29 09:48:30.302  SYSTEM: Start Rt
+2021.04.29 09:48:30.477  SYSTEM: Start Rt-0
+2021.04.29 09:48:30.481  SYSTEM: Start Rt-1
+2021.04.29 09:48:30.486  SYSTEM: Start Rt-2
+2021.04.29 10:04:02.516  SYSTEM: Calling Pm.AppStop
+2021.04.29 10:04:02.535  SYSTEM: Stop Rt
+2021.04.29 10:04:02.654  SYSTEM: Stop Rt Done
+2021.04.29 10:09:53.656  SYSTEM: Start Rt
+2021.04.29 10:09:53.812  SYSTEM: Start Rt-0
+2021.04.29 10:09:53.815  SYSTEM: Start Rt-1
+2021.04.29 10:09:53.818  SYSTEM: Start Rt-2
+2021.04.29 10:10:24.633  SYSTEM: Calling Pm.AppStop
+2021.04.29 10:10:24.651  SYSTEM: Stop Rt
+2021.04.29 10:10:24.731  SYSTEM: Stop Rt Done
+2021.04.29 10:10:35.815  SYSTEM: Start Rt
+2021.04.29 10:10:35.896  SYSTEM: Start Rt-0
+2021.04.29 10:10:35.904  SYSTEM: Start Rt-1
+2021.04.29 10:10:35.912  SYSTEM: Start Rt-2
+2021.04.29 10:11:28.576  SYSTEM: Calling Pm.AppStop
+2021.04.29 10:11:28.595  SYSTEM: Stop Rt
+2021.04.29 10:11:28.691  SYSTEM: Stop Rt Done
+2021.04.29 10:13:03.601  SYSTEM: Stop App
+2021.04.29 10:13:03.603  SYSTEM: Stop App Done
+2021.05.08 20:49:56.904  SYSTEM: Start App licence=0
+2021.05.08 20:49:56.904  SYSTEM: Windows:  unknown Windows version
+2021.05.08 20:49:56.905  SYSTEM: Promotic: Promotic7.5.7
+2021.05.08 20:49:56.906  SYSTEM: Application: Promotic7.3.11
+2021.05.08 20:49:58.243  SYSTEM: Convert request, accepted:YES
+2021.05.08 20:49:58.249  SYSTEM: Start App Done
+2021.05.08 20:49:58.365  SYSTEM: SaveAll App, backup created
+2021.05.08 20:50:10.548  SYSTEM: Stop App
+2021.05.08 20:50:10.549  SYSTEM: Stop App Done
+2021.05.09 18:59:57.691  SYSTEM: Start App licence=0
+2021.05.09 18:59:57.692  SYSTEM: Windows:  unknown Windows version
+2021.05.09 18:59:57.693  SYSTEM: Promotic: Promotic7.5.7
+2021.05.09 18:59:57.698  SYSTEM: Application: Promotic7.5.7
+2021.05.09 18:59:57.749  SYSTEM: Start App Done
+2021.05.09 19:00:02.239  SYSTEM: Start Rt
+2021.05.09 19:00:03.653  SYSTEM: Start Rt-0
+2021.05.09 19:00:03.656  SYSTEM: Start Rt-1
+2021.05.09 19:00:03.658  ERROR Count:1 Ident:OpenView failed - sObjectPath not valid Note:/Toolbar
+2021.05.09 19:00:03.662  SYSTEM: Start Rt-2
+2021.05.09 19:00:42.701  SYSTEM: Stop Rt
+2021.05.09 19:00:43.002  SYSTEM: Stop Rt Done
+2021.05.09 19:00:43.148  SYSTEM: Stop App
+2021.05.09 19:00:43.150  SYSTEM: Stop App Done
+2021.05.13 00:18:44.794  SYSTEM: Start App licence=0
+2021.05.13 00:18:44.795  SYSTEM: Windows:  unknown Windows version
+2021.05.13 00:18:44.797  SYSTEM: Promotic: Promotic7.5.7
+2021.05.13 00:18:44.801  SYSTEM: Application: Promotic7.5.7
+2021.05.13 00:18:44.851  SYSTEM: Start App Done
+2021.05.13 00:18:48.284  SYSTEM: Start Rt
+2021.05.13 00:18:49.658  SYSTEM: Start Rt-0
+2021.05.13 00:18:49.661  SYSTEM: Start Rt-1
+2021.05.13 00:18:49.664  ERROR Count:1 Ident:OpenView failed - sObjectPath not valid Note:/Toolbar
+2021.05.13 00:18:49.675  SYSTEM: Start Rt-2
+2021.05.13 00:19:20.269  SYSTEM: Stop Rt
+2021.05.13 00:19:20.597  SYSTEM: Stop Rt Done
+2021.05.13 00:19:20.777  SYSTEM: Stop App
+2021.05.13 00:19:20.779  SYSTEM: Stop App Done
+2021.05.13 00:20:06.607  SYSTEM: Start App licence=0
+2021.05.13 00:20:06.609  SYSTEM: Windows:  unknown Windows version
+2021.05.13 00:20:06.611  SYSTEM: Promotic: Promotic7.5.7
+2021.05.13 00:20:06.615  SYSTEM: Application: Promotic7.5.7
+2021.05.13 00:20:06.668  SYSTEM: Start App Done
+2021.05.13 00:20:08.916  SYSTEM: Stop App
+2021.05.13 00:20:08.919  SYSTEM: Stop App Done
+2021.05.13 00:20:10.993  SYSTEM: Start App licence=0
+2021.05.13 00:20:10.995  SYSTEM: Windows:  unknown Windows version
+2021.05.13 00:20:10.996  SYSTEM: Promotic: Promotic7.5.7
+2021.05.13 00:20:11.001  SYSTEM: Application: Promotic7.5.7
+2021.05.13 00:20:11.057  SYSTEM: Start App Done
+2021.05.13 00:20:12.804  SYSTEM: Start Rt
+2021.05.13 00:20:13.841  SYSTEM: Start Rt-0
+2021.05.13 00:20:13.845  SYSTEM: Start Rt-1
+2021.05.13 00:20:13.847  ERROR Count:1 Ident:OpenView failed - sObjectPath not valid Note:/Toolbar
+2021.05.13 00:20:13.853  SYSTEM: Start Rt-2
+2021.05.13 00:20:20.269  SYSTEM: Stop Rt
+2021.05.13 00:20:20.608  SYSTEM: Stop Rt Done
+2021.05.13 00:20:20.783  SYSTEM: Stop App
+2021.05.13 00:20:20.785  SYSTEM: Stop App Done
+2021.05.16 14:19:48.384  SYSTEM: Start App licence=0
+2021.05.16 14:19:48.386  SYSTEM: Windows:  unknown Windows version
+2021.05.16 14:19:48.388  SYSTEM: Promotic: Promotic7.5.7
+2021.05.16 14:19:48.393  SYSTEM: Application: Promotic7.5.7
+2021.05.16 14:19:48.447  SYSTEM: Start App Done
+2021.05.16 14:23:58.140  SYSTEM: Start Rt
+2021.05.16 14:23:59.101  SYSTEM: Start Rt-0
+2021.05.16 14:23:59.104  SYSTEM: Start Rt-1
+2021.05.16 14:23:59.107  ERROR Count:1 Ident:OpenView failed - sObjectPath not valid Note:/Toolbar
+2021.05.16 14:23:59.111  SYSTEM: Start Rt-2
+2021.05.16 14:24:09.518  SYSTEM: Stop Rt
+2021.05.16 14:24:09.813  SYSTEM: Stop Rt Done
+2021.05.16 14:24:09.948  SYSTEM: Stop App
+2021.05.16 14:24:09.950  SYSTEM: Stop App Done
+2021.05.16 14:25:46.584  SYSTEM: Start App licence=0
+2021.05.16 14:25:46.585  SYSTEM: Windows:  unknown Windows version
+2021.05.16 14:25:46.586  SYSTEM: Promotic: Promotic7.5.7
+2021.05.16 14:25:46.591  SYSTEM: Application: Promotic7.5.7
+2021.05.16 14:25:46.643  SYSTEM: Start App Done
+2021.05.16 14:31:59.032  SYSTEM: Start Rt
+2021.05.16 14:31:59.854  SYSTEM: Start Rt-0
+2021.05.16 14:31:59.857  SYSTEM: Start Rt-1
+2021.05.16 14:31:59.859  ERROR Count:1 Ident:OpenView failed - sObjectPath not valid Note:/Toolbar
+2021.05.16 14:31:59.863  SYSTEM: Start Rt-2
+2021.05.16 14:32:01.154  SYSTEM: Stop Rt
+2021.05.16 14:32:01.477  SYSTEM: Stop Rt Done
+2021.05.16 14:32:01.632  SYSTEM: Stop App
+2021.05.16 14:32:01.636  SYSTEM: Stop App Done
+2021.05.17 20:21:03.698  SYSTEM: Start App licence=0
+2021.05.17 20:21:03.700  SYSTEM: Windows:  unknown Windows version
+2021.05.17 20:21:03.701  SYSTEM: Promotic: Promotic7.5.7
+2021.05.17 20:21:03.705  SYSTEM: Application: Promotic7.5.7
+2021.05.17 20:21:03.757  SYSTEM: Start App Done
+2021.05.17 20:21:07.187  SYSTEM: Start Rt
+2021.05.17 20:21:08.331  SYSTEM: Start Rt-0
+2021.05.17 20:21:08.333  SYSTEM: Start Rt-1
+2021.05.17 20:21:08.336  ERROR Count:1 Ident:OpenView failed - sObjectPath not valid Note:/Toolbar
+2021.05.17 20:21:08.340  SYSTEM: Start Rt-2
+2021.05.17 20:21:18.415  SYSTEM: Stop Rt
+2021.05.17 20:21:18.737  SYSTEM: Stop Rt Done
+2021.05.17 20:21:18.894  SYSTEM: Stop App
+2021.05.17 20:21:18.896  SYSTEM: Stop App Done
+2021.05.17 20:26:08.710  SYSTEM: Start App licence=0
+2021.05.17 20:26:08.711  SYSTEM: Windows:  unknown Windows version
+2021.05.17 20:26:08.712  SYSTEM: Promotic: Promotic7.5.7
+2021.05.17 20:26:08.717  SYSTEM: Application: Promotic7.5.7
+2021.05.17 20:26:08.768  SYSTEM: Start App Done
+2021.05.17 20:28:40.417  SYSTEM: Stop App
+2021.05.17 20:28:40.420  SYSTEM: Stop App Done
